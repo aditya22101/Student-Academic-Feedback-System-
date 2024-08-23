@@ -4,8 +4,12 @@ Author: Aditya Raj
 The Student Academic Feedback System (SAFS) is a desktop application developed using Python’s Object-Oriented Programming (OOP) principles and the Tkinter module for the graphical user interface (GUI). This application facilitates the management of student academic feedback by providing a user-friendly interface for students, instructors, and administrators.
 
 
-Clone this project
-https://github.com/aditya22101/Student-Academic-Feedback-System-.git
+To clone this repository to your local machine, use the following command:
+
+```bash
+git clone https://github.com/aditya22101/Student-Academic-Feedback-System-.git
+```
+
 
 Features
 Student Management: Add, update, and view student profiles and academic records.
